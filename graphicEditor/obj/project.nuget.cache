@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yb6N4BWzamhJUiLFJWAR6yIQm0moPIkjMRql3Z8kvcf6dxlNIDf8nnKkRmI45aB7o/Y1s+Wy3+4nUF2QViTDFw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Sharp\\graphicEditor\\graphicEditor\\graphicEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perep\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\perep\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
